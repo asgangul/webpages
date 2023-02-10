@@ -1,0 +1,22 @@
+/*
+ *Name: ARNAV GANGULY
+ *UnityID: asgangul
+ *Date: 02/09/2023
+ *Assignment: Guided Lab 4
+ *Description: Guided Lab Assignment, about me webpage
+ */
+
+p {
+    font-family: Times;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+
+.table-border {
+    border: 1px solid #FFFFFF;
+}
+
+#photo-resize {
+    max-width: 270px;
+	max-height: 360px;
+}
